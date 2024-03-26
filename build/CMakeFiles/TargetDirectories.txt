@@ -1,0 +1,3 @@
+/Users/jamespearce/sp24/set_cover/build/CMakeFiles/set_cover.dir
+/Users/jamespearce/sp24/set_cover/build/CMakeFiles/edit_cache.dir
+/Users/jamespearce/sp24/set_cover/build/CMakeFiles/rebuild_cache.dir
